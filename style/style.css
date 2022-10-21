@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+.conteiner{
+    background-color: blue;
+    text-align: center;
+    display: block;
+    padding: 10px 80px;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 25px;
+    margin-top: 80px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 16px;
+    border-radius: 10px;
+}
+input{
+    border-radius: 10px;
+}
